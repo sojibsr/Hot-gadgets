@@ -1,0 +1,68 @@
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.buy-now-btn{
+	border:none;
+	border-radius:4px;
+	color:#fff; 
+	background-color: black;
+	padding: 6px 12px 6px 12px;
+	font-size: 10px;
+}
+
+.see-all{
+	color:orange;
+}
+
+.card{
+	border: none !important;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px !important;
+}
+
+hr.middle{
+	border:4px solid orange;
+	border-radius: 5px;
+	text-align: center;
+	width:50px;
+	margin-top: -37px;
+}
+
+.cat-perf,.cat-shoe,.cat-bag{
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 25px 0px !important;
+	width: 100%;
+
+}
+
+ .cat-po img{
+ 	width: 100%;
+ }
+
+ .cat-middle{
+ 	display:flex;
+ 	flex-direction: column;
+ 	flex-wrap: wrap;
+
+ }
+
+ .cat-bag img,.cat-middle img{
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	display: block;
+ 	width: 40%;
+ }
+
+h2{
+	font-weight: 700px;
+	font-family: sans-serif;
+}
+
+.copydown{
+	text-align: center;
+	font-size: 12px;
+}
+
